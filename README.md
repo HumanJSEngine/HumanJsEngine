@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HumanJsEngine&fontSize=80)
-<img src="https://user-images.githubusercontent.com/103413040/224016550-e3adb3f4-dbc1-4eca-b598-3328b9d82901.jpg" width="600" height="600"/>
+<img src="https://user-images.githubusercontent.com/103413040/224016550-e3adb3f4-dbc1-4eca-b598-3328b9d82901.jpg" width="400" height="800"/>
 ## Tech Stack
 
 <div>
