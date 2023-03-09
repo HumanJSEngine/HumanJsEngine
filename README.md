@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HumanJsEngine&fontSize=80)
-![guts zodd](https://user-images.githubusercontent.com/103413040/216826823-fb345536-2530-4d67-ac0e-0cc014f67962.jpg)
-
 ## Tech Stack
 
 <div>
