@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HumanJsEngine&fontSize=80)
+<img src="https://user-images.githubusercontent.com/103413040/224016550-e3adb3f4-dbc1-4eca-b598-3328b9d82901.jpg" width="600" height="600"/>
 ## Tech Stack
-![KakaoTalk_20230309_022814233](https://user-images.githubusercontent.com/103413040/224016550-e3adb3f4-dbc1-4eca-b598-3328b9d82901.jpg)
 
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
